@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [--------------------](--------------------)
 
-- 💬 Ask me about **any thing you want**
+- 💬 Ask me about **Any thing you want**
 
 - 📫 How to reach me **tewodroshabtamu29@gmail.com**
 
