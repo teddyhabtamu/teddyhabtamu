@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Website development**
 
-- 👨‍💻 To see about me [www.linkedin.com/in/tewodroshabtamu](www.linkedin.com/in/tewodroshabtamu)
+- 👨‍💻 To see about me [www.linkedin.com/in/tewodroshabtamu](www.linkedin.com/in/tewodros-habtamu-831754351)
 
 - 📝 I regularly write articles on [--------------------](--------------------)
 
