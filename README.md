@@ -57,8 +57,8 @@ My work sits at the intersection of systems thinking and software craftsmanship 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=teddyhabtamu&show_icons=true&theme=vision-friendly-dark&v=1&hide_border=true&count_private=true " alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=teddyhabtamu&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&v=1&hide_border=true " alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=teddyhabtamu&show_icons=true&theme=vision-friendly-dark&v=1&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=teddyhabtamu&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&v=1&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
