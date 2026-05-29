@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tewodros Habtamu 
+# Tewodros Habtamu  
 
 **System Development & IT Modernization Engineer · Dashen Bank**  
 B.Sc. Electrical & Computer Engineering — Addis Ababa University, 2025
